@@ -9,7 +9,8 @@ It is deployed on Apache Tomcat 7.0.70 with Java Runtime 7.
 ```sh
 docker run -d -p 8080:8080 --name kunagi -v /home/YOUR_USER/kunagi-data:/usr/local/tomcat/webapps/kunagi-data speedlog/kunagi-docker
 ```
-It exposes port 8080, so application will be avaible on http://localhost:8080/kunagi. Kunagi data will be persist in host folder "/home/YOUR_USER/kunagi-data".
+It exposes port 8080, so application will be avaible on http://localhost:8080/kunagi
+Kunagi data will be persist in host folder "/home/YOUR_USER/kunagi-data".
 
 ## Configuration
 You can run container with another version of Kunagi. There are two environment options:
