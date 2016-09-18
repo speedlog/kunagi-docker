@@ -1,4 +1,6 @@
 # Kunagi Docker
+[![](https://images.microbadger.com/badges/image/speedlog/kunagi-docker.svg)](https://microbadger.com/images/speedlog/kunagi-docker "Get your own image badge on microbadger.com")
+
 Docker image contains Kunagi - application for managing Scrum project.
 See more about Kunagi: http://kunagi.org/
 
